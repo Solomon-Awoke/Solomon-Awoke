@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM0/YBfNLXUOStI/AAAAAAAA3N4/2rQ5npDD_TcGq5KXxkdBXUkKQ1ll3TJlgCLcBGAsYHQ/s0/rishavchanda.png)
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 
 <h1 align="center">Hi 👋, I'm Solomon Awoke</h1>
 <h3 align="center">A passionate Frontend and Backend developer from Ethiopia</h3>
