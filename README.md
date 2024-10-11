@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Solomon Awoke</h1>
 <h3 align="center">A passionate Frontend and Backend developer from Ethiopia</h3>
 
-<img align = "right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*A6Sl8DS_C6-mYf2KiqvtyA.gif"
+<img align = "right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-awoke&label=Profile%20views&color=0e75b6&style=flat" alt="solomon-awoke" /> </p>
 
